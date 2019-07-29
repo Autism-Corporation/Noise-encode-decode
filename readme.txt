@@ -5,4 +5,4 @@ decode.bat - та же хуйня, но с декодировкой
 
 Сорцы данного говна прилагаются.
 
-![](https://github.com/Autism-Corporation/Noise-encode-decode/blob/master/%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F.jpg?raw=true) .zip - для распространения репозитория через жпег.
+![](https://raw.githubusercontent.com/Autism-Corporation/Noise-encode-decode/master/github-AIDS.jpg) .zip - для распространения репозитория через жпег.

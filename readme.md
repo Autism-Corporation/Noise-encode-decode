@@ -11,3 +11,5 @@ decode.bat - та же хуйня, но с декодировкой
 Сорцы данного говна прилагаются.
 
 ![](https://raw.githubusercontent.com/Autism-Corporation/Noise-encode-decode/master/github-AIDS.jpg) .zip - для распространения репозитория через жпег.
+
+Принцип работы для тех кто пьёт из лужи. https://youtu.be/4QssAjdQpzs
